@@ -31,6 +31,7 @@ public class AdminDash extends AppCompatActivity implements NavigationView.OnNav
  BottomNavigationView bottomNavigationView;
  NavigationView navigationView;
     @Override
+
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
