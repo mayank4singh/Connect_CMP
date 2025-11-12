@@ -19,7 +19,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Admin Data"
+                android:text="Admin Dashboard"
                 android:gravity="center"
                 android:textSize="22sp"
                 android:textColor="#1A1919"

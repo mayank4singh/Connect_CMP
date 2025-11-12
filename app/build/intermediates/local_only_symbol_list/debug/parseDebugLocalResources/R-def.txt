@@ -107,6 +107,7 @@ id adminPost
 id admindata
 id assignsubject
 id attend
+id attendancePieChart
 id bca
 id bcaMca
 id btnAddSubject
@@ -193,6 +194,7 @@ id teacherName
 id teacherPost
 id textmsg
 id toolBar
+id tvAttendanceSummary
 id tvSelectedDate
 id tvStudentName
 id txt
@@ -267,6 +269,7 @@ mipmap ic_launcher
 mipmap ic_launcher_round
 mipmap logo
 string app_name
+string firebase_database_url
 string gcm_defaultSenderId
 string google_api_key
 string google_app_id

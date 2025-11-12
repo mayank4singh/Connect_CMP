@@ -1,0 +1,562 @@
+[
+    {
+        "merged": "com.example.cmplive.app-debug-44:/anim_bottom_animation.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/anim/bottom_animation.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_activity_teacher_dash.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/activity_teacher_dash.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.cmplive.app-main-46:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/mipmap-xxhdpi_logo.webp.flat",
+        "source": "com.example.cmplive.app-main-46:/mipmap-xxhdpi/logo.webp"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.cmplive.app-main-46:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_activity_chatwindo.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/activity_chatwindo.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable-xhdpi_mainback.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable-xhdpi/mainback.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_cour.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/cour.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_students.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/students.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable-xhdpi_sendbut.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable-xhdpi/sendbut.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_home.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/home.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_fragment_assign_subject.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/fragment_assign_subject.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_person.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/person.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable-xhdpi_two.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable-xhdpi/two.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable-xhdpi_av.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable-xhdpi/av.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/mipmap-xhdpi_logo.webp.flat",
+        "source": "com.example.cmplive.app-main-46:/mipmap-xhdpi/logo.webp"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/menu_bottom_menu_admin.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/menu/bottom_menu_admin.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_fragment_ad_faculti.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/fragment_ad_faculti.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/menu_nav_drwr_admin.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/menu/nav_drwr_admin.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/font_poppins_regular.ttf.flat",
+        "source": "com.example.cmplive.app-main-46:/font/poppins_regular.ttf"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_add.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/add.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_fragment_reset_pass.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/fragment_reset_pass.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_vie_bg.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/vie_bg.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_fragment_stu_fclts.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/fragment_stu_fclts.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable-xhdpi_settingback.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable-xhdpi/settingback.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable-xhdpi_logout.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable-xhdpi/logout.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_fragment_ad_student.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/fragment_ad_student.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_admin_layout.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/admin_layout.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable-xhdpi_photocamera.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable-xhdpi/photocamera.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_item_student_attendance.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/item_student_attendance.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/menu_nav_drwr_teach.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/menu/nav_drwr_teach.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_call.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/call.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_activity_splash.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable-xhdpi_fone.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable-xhdpi/fone.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/font_poppins_italic.ttf.flat",
+        "source": "com.example.cmplive.app-main-46:/font/poppins_italic.ttf"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_fragment_stu_attend.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/fragment_stu_attend.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_background.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/background.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.cmplive.app-main-46:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/font_apptext.ttf.flat",
+        "source": "com.example.cmplive.app-main-46:/font/apptext.ttf"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_fragment_faculty.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/fragment_faculty.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/menu_bottom_menu_teach.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/menu/bottom_menu_teach.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_activity_chat_splash.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/activity_chat_splash.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cmplive.app-main-46:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cmplive.app-main-46:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_download.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/download.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_attend.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/attend.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable-xhdpi_settone.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable-xhdpi/settone.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_reciver_shape.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/reciver_shape.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_fragment_ad_add_notice.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/fragment_ad_add_notice.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cmplive.app-main-46:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_subjects.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/subjects.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_bordermain.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/bordermain.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_fragment_stu_classm.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/fragment_stu_classm.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_google.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/google.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_notice.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/notice.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_activity_student_dash.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/activity_student_dash.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_fragment_ad_notice.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/fragment_ad_notice.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_activity_chat.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_marksheet.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/marksheet.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable-xhdpi_cameraone.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable-xhdpi/cameraone.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.cmplive.app-main-46:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cmplive.app-main-46:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable-xhdpi_regis_back.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable-xhdpi/regis_back.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_faculties.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/faculties.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/font_poppins_bold.ttf.flat",
+        "source": "com.example.cmplive.app-main-46:/font/poppins_bold.ttf"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_fragment_teach_home.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/fragment_teach_home.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/font_dancing.ttf.flat",
+        "source": "com.example.cmplive.app-main-46:/font/dancing.ttf"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_fragment_adcrte.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/fragment_adcrte.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_activity_login.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_classm.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/classm.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/mipmap-xxxhdpi_logo.webp.flat",
+        "source": "com.example.cmplive.app-main-46:/mipmap-xxxhdpi/logo.webp"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable-xhdpi_one.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable-xhdpi/one.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_sender_shape.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/sender_shape.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/xml_backup_rules.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.cmplive.app-main-46:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable-xhdpi_imageadd.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable-xhdpi/imageadd.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_fragment_update_teacher.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/fragment_update_teacher.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/mipmap-hdpi_logo.webp.flat",
+        "source": "com.example.cmplive.app-main-46:/mipmap-hdpi/logo.webp"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_fragment_add_student.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/fragment_add_student.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/anim_top_animation.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/anim/top_animation.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable-xhdpi_power.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable-xhdpi/power.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_contact.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/contact.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_reciver_layout.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/reciver_layout.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable-xhdpi_login_backk.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable-xhdpi/login_backk.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_fragment_notice_stu.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/fragment_notice_stu.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable-xhdpi_cmpp.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable-xhdpi/cmpp.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/font_poppins_black.ttf.flat",
+        "source": "com.example.cmplive.app-main-46:/font/poppins_black.ttf"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_nav_hdr_teach.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/nav_hdr_teach.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_empty_background.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/empty_background.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/menu_nav_drwr_stu.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/menu/nav_drwr_stu.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/font_spartan_bold.otf.flat",
+        "source": "com.example.cmplive.app-main-46:/font/spartan_bold.otf"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_login_admin.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/login_admin.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_activity_add_subject.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/activity_add_subject.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_fragment_ad_add_faculty.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/fragment_ad_add_faculty.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_st_item_layout.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/st_item_layout.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_subject.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/subject.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_newsfeed_item_layout.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/newsfeed_item_layout.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_msng.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/msng.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_user_item.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/user_item.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_st_newsfeed.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/st_newsfeed.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable-xhdpi_ftwo.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable-xhdpi/ftwo.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_shapedialog.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/shapedialog.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_add_notice.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/add_notice.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_edit_text.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/edit_text.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/font_spartan_regular.otf.flat",
+        "source": "com.example.cmplive.app-main-46:/font/spartan_regular.otf"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable-xhdpi_chatback.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable-xhdpi/chatback.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_img.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/img.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/font_spartan_thin.otf.flat",
+        "source": "com.example.cmplive.app-main-46:/font/spartan_thin.otf"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cmplive.app-main-46:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable-xhdpi_chatone.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable-xhdpi/chatone.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_st_faculty_item.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/st_faculty_item.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_login_teach.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/login_teach.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_dialog_layout.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/dialog_layout.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_fragment_mark_attendance.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/fragment_mark_attendance.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/font_bhu.ttf.flat",
+        "source": "com.example.cmplive.app-main-46:/font/bhu.ttf"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable-xhdpi_sett.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable-xhdpi/sett.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable-xhdpi_chat.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable-xhdpi/chat.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable-xhdpi_camera.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable-xhdpi/camera.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/mipmap-mdpi_logo.webp.flat",
+        "source": "com.example.cmplive.app-main-46:/mipmap-mdpi/logo.webp"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable-xhdpi_fthree.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable-xhdpi/fthree.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_item_student.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/item_student.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_faculty_item_layout.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/faculty_item_layout.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_login_stu.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/login_stu.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_no_data_found.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/no_data_found.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_fragment_admin_home.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/fragment_admin_home.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/menu_bottom_menu_stu.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/menu/bottom_menu_stu.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_fragment_stu_home.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/fragment_stu_home.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_sender_layout.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/sender_layout.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable-xhdpi_checked.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable-xhdpi/checked.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_fragment_scholar.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/fragment_scholar.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_fragment_contact.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/fragment_contact.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable-xhdpi_man.png.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable-xhdpi/man.png"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_activity_setting.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/layout_activity_admin.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/layout/activity_admin.xml"
+    },
+    {
+        "merged": "com.example.cmplive.app-debug-44:/drawable_chat.xml.flat",
+        "source": "com.example.cmplive.app-main-46:/drawable/chat.xml"
+    }
+]

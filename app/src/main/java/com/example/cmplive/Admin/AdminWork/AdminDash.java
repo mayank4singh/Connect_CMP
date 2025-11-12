@@ -36,8 +36,6 @@ public class AdminDash extends AppCompatActivity implements NavigationView.OnNav
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_admin);
 
-
-
         bottomNavigationView = findViewById(R.id.BottomNavigation);
         navigationView = findViewById(R.id.navdrwr);
         navigationView.setNavigationItemSelectedListener(this);
