@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    tools:showIn = "navigation_view">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nwadmn"
+            android:icon="@drawable/cour"
+            android:title="Create Admin"/>
+
+        <item
+            android:id="@+id/fclts"
+            android:icon="@drawable/faculties"
+            android:title="Faculties"/>
+
+        <item
+            android:id="@+id/stu"
+            android:icon="@drawable/faculties"
+            android:title="Students"/>
+
+        <item
+            android:id="@+id/subject"
+            android:icon="@drawable/subjects"
+            android:title="Subjects"/>
+        <item
+            android:id="@+id/assignsubject"
+            android:icon="@drawable/subject"
+            android:title="Assign Subjects"/>
+
+        <item
+            android:id="@+id/Notice"
+            android:icon="@drawable/notice"
+            android:title="Notice"/>
+
+        <item
+            android:id="@+id/cnt"
+            android:icon="@drawable/contact"
+            android:title="Contact"/>
+
+
+
+    </group>
+
+</menu>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+
+
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/stu"
+            android:icon="@drawable/students"
+            android:title="Students"/>
+
+         <item
+            android:id="@+id/fclts"
+            android:icon="@drawable/classm"
+            android:title="Co-Faculties"/>
+
+
+
+        <item
+            android:id="@+id/notice"
+            android:icon="@drawable/marksheet"
+            android:title="Notice"/>
+
+
+        <item
+            android:id="@+id/cnt"
+            android:icon="@drawable/contact"
+            android:title="Contact"/>
+
+
+
+    </group>
+
+</menu>

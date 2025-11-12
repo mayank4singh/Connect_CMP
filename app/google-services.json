@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756989653227",
+    "project_id": "cmplive-54b56",
+    "storage_bucket": "cmplive-54b56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756989653227:android:1ec80176f9902b7d6f8eae",
+        "android_client_info": {
+          "package_name": "com.example.cmplive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZBH-scuk0G1Jl-0day5uB7xOFTLbjUsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
