@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="grey">#A1B0B1</color>
+    <color name="sky">#71ACC6</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Connect CMP</string>
+    <string name="gcm_defaultSenderId" translatable="false">756989653227</string>
+    <string name="google_api_key" translatable="false">AIzaSyBZBH-scuk0G1Jl-0day5uB7xOFTLbjUsE</string>
+    <string name="google_app_id" translatable="false">1:756989653227:android:1ec80176f9902b7d6f8eae</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBZBH-scuk0G1Jl-0day5uB7xOFTLbjUsE</string>
+    <string name="google_storage_bucket" translatable="false">cmplive-54b56.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="project_id" translatable="false">cmplive-54b56</string>
+    <string name="select_subject">Select Subject</string>
+    <string name="select_teacher">Select Teacher</string>
+    <style name="Base.Theme.CmpLive" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.CmpLive" parent="Base.Theme.CmpLive"/>
+    <style name="dialoge">
+        <item name="android:windowBackground">@drawable/empty_background</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowMinWidthMajor">80%</item>
+        <item name="windowActionBar">false</item>
+    </style>
+</resources>
